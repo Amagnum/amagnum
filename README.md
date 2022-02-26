@@ -53,52 +53,53 @@ Git Stats
   <img src="https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white"/>
 </div> -->
 
-### Main skills:
-
+### Code Languages:
 ![C](https://img.shields.io/badge/-c-0D1117?style=for-the-badge&logo=c&labelColor=0D1117)&nbsp;
 ![CPP](https://img.shields.io/badge/-c++-0D1117?style=for-the-badge&logo=c%2B%2B&labelColor=0D1117)&nbsp;
-![C#](https://img.shields.io/badge/-c%23-0D1117?style=for-the-badge&logo=c-sharp&labelColor=0D1117)&nbsp;
 ![JAVA](https://img.shields.io/badge/-java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117)&nbsp;
-
-
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
 ![DART](https://img.shields.io/badge/-dart-0D1117?style=for-the-badge&logo=dart&labelColor=0D1117)&nbsp;
+![C#](https://img.shields.io/badge/-c%23-0D1117?style=for-the-badge&logo=c-sharp&labelColor=0D1117)&nbsp;
 ![GO](https://img.shields.io/badge/-go-0D1117?style=for-the-badge&logo=go&labelColor=0D1117)&nbsp;
+
+<!---
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Vue.js](https://img.shields.io/badge/-Vue.js-0D1117?style=for-the-badge&logo=vue-dot-js&labelColor=0D1117)&nbsp;
+--->
 
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+### Frameworks Used:
+![Flask](https://img.shields.io/badge/flask-0D1117.svg?style=for-the-badge&logo=flask)
+![Flutter](https://img.shields.io/badge/Flutter-0D1117.svg?style=for-the-badge&logo=Flutter)
+![React](https://img.shields.io/badge/react-0D1117.svg?style=for-the-badge&logo=react)
+![React Native](https://img.shields.io/badge/-React_native-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![Spring](https://img.shields.io/badge/spring-0D1117.svg?style=for-the-badge&logo=spring)
 
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+### Database Used:
+![Firebase](https://img.shields.io/badge/firebase-0D1117.svg?style=for-the-badge&logo=firebase)
+![MySQL](https://img.shields.io/badge/mysql-0D1117.svg?style=for-the-badge&logo=mysql)
+![MariaDB](https://img.shields.io/badge/MariaDB-0D1117?style=for-the-badge&logo=mariadb)
+![MongoDB](https://img.shields.io/badge/MongoDB-0D1117.svg?style=for-the-badge&logo=mongodb)
 
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
+### Game development engines:
+![Unity](https://img.shields.io/badge/unity-0D1117.svg?style=for-the-badge&logo=unity)
+![Godot Engine](https://img.shields.io/badge/GODOT-0D1117.svg?style=for-the-badge&logo=godot-engine)
 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
-
-![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)
+### Video/Photo Editing and Animation:
+![Blender](https://img.shields.io/badge/blender-0D1117.svg?style=for-the-badge&logo=blender)
+![Canva](https://img.shields.io/badge/Canva-0D1117.svg?style=for-the-badge&logo=Canva)
+![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-0D1117?style=for-the-badge&logo=gimp)
 
 ### Tools:
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-0D1117?style=for-the-badge&logo=adobe-photoshop&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
 ![Linux](https://img.shields.io/badge/-linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
 
+<!--
 ### Other Knowledge:
 
 ![typescript](https://img.shields.io/badge/-typescript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;
@@ -111,8 +112,9 @@ Git Stats
 ![Angular](https://img.shields.io/badge/-angular-0D1117?style=for-the-badge&logo=angular&labelColor=0D1117)&nbsp;
 
 ### Areas of Interest:
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![React Native](https://img.shields.io/badge/-React_native-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+-->
+
+![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)
 
 
 <div align="center">
