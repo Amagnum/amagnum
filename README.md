@@ -1,132 +1,64 @@
-<!-- # shiny-broccoli
-Git Stats
-Just for the sake of contribution adding this comment :(
-### ⚙️ &nbsp;GitHub Analytics
+<!-- ──────────────────────────────────────────────  HERO / BANNER  ───────────────────────────────────────────── -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&fontColor=FFFFFF&height=250&section=header&text=Hey%20%E2%9B%B5%20I'm%20Adarsh&fontSize=70&animation=twinkling&color=0:0D1117,100:00bfbf" />
 
 <p align="center">
-<a href="https://github.com/amagnum">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=amagnum&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amagnum&layout=compact&hide=html,jupyter%20notebook,vhdl"/>
-</a>
+  <a href="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&pause=1000&color=00BFBF&center=true&vCenter=true&width=1000&lines=Full-stack+Engineer;AI+and+Automation+Nerd;Founder+%40+Tell+O+Tale;Storyteller+through+Code">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&pause=1000&color=00BFBF&center=true&vCenter=true&width=1000&lines=Full-stack+Engineer;AI+and+Automation+Nerd;Founder+%40+Tell+O+Tale;Storyteller+through+Code" alt="Typing intro" />
+  </a>
 </p>
--->
 
-<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hi+the&fontSize=90)
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer) -->
+<!-- ─────────────────────────────────────────────  QUICK INTRO  ──────────────────────────────────────────────── -->
+### 👋 About Me
+- 🧑‍🎓 IIT Indore - CSE alum · Built my first startup **VegiGo** from a dorm room  
+- 🏗️ Now building **Tell O Tale** – a digital-storytelling agency powered by AI  
+- 🔭 Currently diving into generative media, workflow automation & growth hacking  
+- 🎮 Side-quests: game-dev in Unity/Godot & 3D art in Blender  
+- 🐿 Fun fact: I once coded an **astronaut-squirrel** game because… why not?
 
-<!--
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=अहम् मेघः नमः&desc=(amagnum)&fontSize=30&descAlignY=50&fontColor=fff&animation=twinkling&fontAlignY=35"/> -->
+<!-- ───────────────────────────────────────────────  TECH STACK  ─────────────────────────────────────────────── -->
+### 🛠 Tech Toolbox
+![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c)&nbsp;
+![C++](https://img.shields.io/badge/-C++-0D1117?style=for-the-badge&logo=c%2B%2B)&nbsp;
+![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java)&nbsp;
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python)&nbsp;
+![Dart](https://img.shields.io/badge/-Dart-0D1117?style=for-the-badge&logo=dart)&nbsp;
+![Go](https://img.shields.io/badge/-Go-0D1117?style=for-the-badge&logo=go)&nbsp;
+![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react)&nbsp;
+![Flutter](https://img.shields.io/badge/-Flutter-0D1117?style=for-the-badge&logo=flutter)&nbsp;
+![Spring](https://img.shields.io/badge/-Spring-0D1117?style=for-the-badge&logo=spring)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-0D1117?style=for-the-badge&logo=firebase)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb)&nbsp;
+![Unity](https://img.shields.io/badge/-Unity-0D1117?style=for-the-badge&logo=unity)&nbsp;
+![Godot](https://img.shields.io/badge/-Godot-0D1117?style=for-the-badge&logo=godot-engine)&nbsp;
+![Blender](https://img.shields.io/badge/-Blender-0D1117?style=for-the-badge&logo=blender)&nbsp;
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux)&nbsp;
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+===+Adarsh+Baghel;I+SPECIALIZE+===+CREATING+THINGS;I+EXPERTISE+>+2+YEARS+IN+PROGRAMMING;IF+(LIKE+MY+WORK)+FOLLOW+%26%26+STAR;THNX+:%29)](https://git.io/typing-svg)
+<!-- ─────────────────────────────────────────────  GITHUB STATS  ─────────────────────────────────────────────── -->
+### 📊 GitHub Analytics
+<p align="center">
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=amagnum&show_icons=true&theme=algolia&include_all_commits=true&hide_border=true" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amagnum&layout=compact&theme=algolia&hide=html,jupyter%20notebook,vhdl&hide_border=true" />
+  <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=amagnum&theme=algolia&hide_border=true" />
+</p>
 
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=amagnum&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="amagnum" /></div>
+<!-- ───────────────────────────────────────────────  NOW  ───────────────────────────────────────────────────── -->
+### 🚀 What I’m Up To
+- **Building:** AI-powered brand content pipelines for clients @ Tell O Tale  
+- **Learning:** WebGPU · LLM fine-tuning · React Server Components  
+- **Open-Sourcing:** Utilities for Notion → Slide automation, GPT-powered WhatsApp bots  
 
-<!-- ./STAT -->
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=amagnum&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="amagnum github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amagnum&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
-<!-- ./STATS  -->
+<!-- ─────────────────────────────────────────────  CONTACT  ──────────────────────────────────────────────────── -->
+### 📫 Reach Out
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/<your-handle>)&nbsp;
+[![Twitter](https://img.shields.io/badge/-X-0D1117?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/<your-handle>)&nbsp;
+[![Mail](https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail)](mailto:<your-email>)  
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=amagnum&theme=react-dark&hide_border=true&area=true)
+<br/>
 
-<!-- <div align="center">  
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-</div> -->
+<p align="center">
+  <img src="https://profile-counter.glitch.me/amagnum/count.svg" />
+</p>
 
-<!-- <div align="center">  
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
-</div> -->
-
-<!-- <div align="center">  
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
-  <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=Leaflet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white"/>
-</div> -->
-
-### Code Languages:
-![C](https://img.shields.io/badge/-c-0D1117?style=for-the-badge&logo=c&labelColor=0D1117)&nbsp;
-![CPP](https://img.shields.io/badge/-c++-0D1117?style=for-the-badge&logo=c%2B%2B&labelColor=0D1117)&nbsp;
-![JAVA](https://img.shields.io/badge/-java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117)&nbsp;
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
-![DART](https://img.shields.io/badge/-dart-0D1117?style=for-the-badge&logo=dart&labelColor=0D1117)&nbsp;
-![C#](https://img.shields.io/badge/-c%23-0D1117?style=for-the-badge&logo=c-sharp&labelColor=0D1117)&nbsp;
-![GO](https://img.shields.io/badge/-go-0D1117?style=for-the-badge&logo=go&labelColor=0D1117)&nbsp;
-
-<!---
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
---->
-
-### Frameworks Used:
-![Flask](https://img.shields.io/badge/flask-0D1117.svg?style=for-the-badge&logo=flask)
-![Flutter](https://img.shields.io/badge/Flutter-0D1117.svg?style=for-the-badge&logo=Flutter)
-![React](https://img.shields.io/badge/react-0D1117.svg?style=for-the-badge&logo=react)
-![React Native](https://img.shields.io/badge/-React_native-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Spring](https://img.shields.io/badge/spring-0D1117.svg?style=for-the-badge&logo=spring)
-
-### Database Used:
-![Firebase](https://img.shields.io/badge/firebase-0D1117.svg?style=for-the-badge&logo=firebase)
-![MySQL](https://img.shields.io/badge/mysql-0D1117.svg?style=for-the-badge&logo=mysql)
-![MariaDB](https://img.shields.io/badge/MariaDB-0D1117?style=for-the-badge&logo=mariadb)
-![MongoDB](https://img.shields.io/badge/MongoDB-0D1117.svg?style=for-the-badge&logo=mongodb)
-
-### Game development engines:
-![Unity](https://img.shields.io/badge/unity-0D1117.svg?style=for-the-badge&logo=unity)
-![Godot Engine](https://img.shields.io/badge/GODOT-0D1117.svg?style=for-the-badge&logo=godot-engine)
-
-### Video/Photo Editing and Animation:
-![Blender](https://img.shields.io/badge/blender-0D1117.svg?style=for-the-badge&logo=blender)
-![Canva](https://img.shields.io/badge/Canva-0D1117.svg?style=for-the-badge&logo=Canva)
-![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-0D1117?style=for-the-badge&logo=gimp)
-
-### Tools:
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
-![Linux](https://img.shields.io/badge/-linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
-
-<!--
-### Other Knowledge:
-
-![typescript](https://img.shields.io/badge/-typescript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;
-![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-0D1117?style=for-the-badge&logo=markdown&labelColor=0D1117)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)&nbsp;
-
-### Studying in this moment:
-
-![Angular](https://img.shields.io/badge/-angular-0D1117?style=for-the-badge&logo=angular&labelColor=0D1117)&nbsp;
-
-### Areas of Interest:
--->
-
-![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)
-
-
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{amagnum}/count.svg" /></p> 
-<br></div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
-
-<!-- | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=amagnum&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="amagnum github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NazarovAsadbek&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" /></a> |
-| ------------- | ------------- | -->
-
-<!-- ![Stats](https://github-readme-stats.vercel.app/api?username=amagnum&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amagnum&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117) -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00bfbf,100:0D1117&section=footer"/>
