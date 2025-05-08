@@ -13,7 +13,7 @@
 - 🏗️ Now building **Tell O Tale** – a digital-storytelling agency powered by AI  
 - 🔭 Currently diving into generative media, workflow automation & growth hacking  
 - 🎮 Side-quests: game-dev in Unity/Godot & 3D art in Blender  
-- 🐿 Fun fact: I once coded an **astronaut-squirrel** game because… why not?
+- 🐿 Fun fact: I won a motorcycle by building a game in a competition, and I learned its abcd in a month.
 
 <!-- ───────────────────────────────────────────────  TECH STACK  ─────────────────────────────────────────────── -->
 ### 🛠 Tech Toolbox
